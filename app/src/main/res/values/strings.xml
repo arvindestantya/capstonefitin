@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FitIn</string>
+
+<!--    custom string-->
+    <string name="home">Home</string>
+    <string name="camera">Camera</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+</resources>
